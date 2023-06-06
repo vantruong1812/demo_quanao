@@ -10,7 +10,7 @@ cin>>a>>b;
 int tong = a+b;
 int hieu = abs(a-b);
 cout<<(tong - hieu)/2;
-//0k
+//
 	return 0;
 
 }
